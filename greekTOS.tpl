@@ -1,5 +1,8 @@
-{* sos apagerevete i antigrafi          *}
-{* emeis mpporei na to kanoyme          *}
+{* sos apagerevete i antigrafi                                    *}
+{* emeis mpporei na to kanoyme                                    *}
+{* φωτογραφιες                                                    *}
+{* αιτηση για να κατευει κτι προστατευμενο με πνεβ. Δικ           *}
+
 
 <div><strong>Πολιτική Προστασίας Προσωπικών Δεδομένων</strong></div>
 <div><strong> </strong></div>
